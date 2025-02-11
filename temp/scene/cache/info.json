@@ -1,0 +1,12 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz",
+        "version": "Darwin Kernel Version 21.5.0: Tue Apr 26 21:08:22 PDT 2022; root:xnu-8020.121.3~4/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "4ded0126-a83f-41d6-850b-821aeec8c1dd": "/Users/lipeiling/PlaneFight/assets/Scenes/02-GameScene.scene",
+        "34ba9cc6-d71f-45ed-ba3a-77a36c92c571": "/Users/lipeiling/PlaneFight/assets/Scenes/01-Start.scene"
+    },
+    "deviceMd5": "f1a6241c118f31be35cfd74b5e2b0f6d"
+}

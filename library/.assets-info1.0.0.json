@@ -1,0 +1,1189 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/lipeiling/PlaneFight/assets/Scenes.meta": {
+      "time": 1737443011397.1123
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scenes": {
+      "time": 1737538612699.6958,
+      "uuid": "34fe8c12-d33b-4a60-96ce-6ed2abd42f0e"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image.meta": {
+      "time": 1737443099459.5474
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/New Atlas.png.meta": {
+      "time": 1737443099532.0132
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/background.png.meta": {
+      "time": 1737443099544.818
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bg.png.meta": {
+      "time": 1737443099537.0583
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bomb.png.meta": {
+      "time": 1737443099511.706
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/btn_finish.png.meta": {
+      "time": 1737443099512.394
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bullet.png.meta": {
+      "time": 1737443099555.766
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bullet1.png.meta": {
+      "time": 1737443099553.915
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bullet2.png.meta": {
+      "time": 1737443099562.0315
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/button_nor.png.meta": {
+      "time": 1737443099559.4487
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/button_p.png.meta": {
+      "time": 1737443099563.6807
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0.png.meta": {
+      "time": 1737443099572.7402
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down1.png.meta": {
+      "time": 1737443099573.9277
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down2.png.meta": {
+      "time": 1737443099576.7983
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down3.png.meta": {
+      "time": 1737443099582.6755
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down4.png.meta": {
+      "time": 1737443099583.6682
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1.png.meta": {
+      "time": 1737443099591.8289
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down1.png.meta": {
+      "time": 1737443099594.2273
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down2.png.meta": {
+      "time": 1737443099595.6357
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down3.png.meta": {
+      "time": 1737443099599.7258
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down4.png.meta": {
+      "time": 1737443099605.017
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_hit.png.meta": {
+      "time": 1737443099612.067
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2.png.meta": {
+      "time": 1737443099614.6306
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down1.png.meta": {
+      "time": 1737443099618.875
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down2.png.meta": {
+      "time": 1737443099626.3108
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down3.png.meta": {
+      "time": 1737443099627.528
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down4.png.meta": {
+      "time": 1737443099635.1455
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down5.png.meta": {
+      "time": 1737443099639.7227
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down6.png.meta": {
+      "time": 1737443099637.7354
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_hit.png.meta": {
+      "time": 1737443099646.5918
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_n2.png.meta": {
+      "time": 1737443099647.104
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading1.png.meta": {
+      "time": 1737443099649.7346
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading2.png.meta": {
+      "time": 1737443099652.725
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading3.png.meta": {
+      "time": 1737443099655.205
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading4.png.meta": {
+      "time": 1737443099662.0571
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_pause_nor.png.meta": {
+      "time": 1737443099663.532
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_pause_pressed.png.meta": {
+      "time": 1737443099665.1826
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_resume_nor.png.meta": {
+      "time": 1737443099667.4434
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_resume_pressed.png.meta": {
+      "time": 1737443099677.5269
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/gameover.png.meta": {
+      "time": 1737443099694.6157
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero1.png.meta": {
+      "time": 1737443099687.5215
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero2.png.meta": {
+      "time": 1737443099688.73
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/icon72x72.png.meta": {
+      "time": 1737443099767.2644
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/loading.png.meta": {
+      "time": 1737443099763.713
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/name.png.meta": {
+      "time": 1737443099758.138
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/plane.png.meta": {
+      "time": 1737443099763.238
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/progress.png.meta": {
+      "time": 1737443099764.1611
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/prop_type_0.png.meta": {
+      "time": 1737443099774.8147
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/prop_type_1.png.meta": {
+      "time": 1737443099781.8367
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/quit_nor.png.meta": {
+      "time": 1737443099780.5193
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/quit_sel.png.meta": {
+      "time": 1737443099778.7932
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/restart_nor.png.meta": {
+      "time": 1737443099782.714
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/restart_sel.png.meta": {
+      "time": 1737443099788.391
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/resume_nor.png.meta": {
+      "time": 1737443099790.2827
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/resume_sel.png.meta": {
+      "time": 1737443099791.4902
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image": {
+      "time": 1738994919297.9607,
+      "uuid": "d0fa0299-caae-4b60-812f-9d3f83e30db1"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/btn_finish.png": {
+      "time": 1737443099437.733,
+      "uuid": "db05ef51-21a6-4b83-baf0-73f2bba3fdf0"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/New Atlas.png": {
+      "time": 1737443099443.7925,
+      "uuid": "c766dedb-0bc3-496b-8503-39f872c37927"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bomb.png": {
+      "time": 1737443099438.7715,
+      "uuid": "be03a0b5-1ce5-44c6-b0be-9eb7b3e040a0"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/background.png": {
+      "time": 1737443099442.9202,
+      "uuid": "8ae7ddf2-ff94-437f-9227-89d665c192d5"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bg.png": {
+      "time": 1737443099442.0354,
+      "uuid": "7a92f644-3eae-49d9-ae4c-6f2a1edb5585"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bullet.png": {
+      "time": 1737443099436.736,
+      "uuid": "98fb0693-f1ae-4924-a362-6b2bddaf2e6e"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bullet1.png": {
+      "time": 1737443099436.0293,
+      "uuid": "be8b8ba6-9e30-41de-818a-6ff1f872391e"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/bullet2.png": {
+      "time": 1737443099435.3328,
+      "uuid": "ad07ee4d-1207-4b45-b356-3355cb026c44"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/button_nor.png": {
+      "time": 1737443099434.6396,
+      "uuid": "31193fc4-d859-4a34-a80a-0fc926c5990c"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/button_p.png": {
+      "time": 1737443099433.353,
+      "uuid": "6dd04e0e-6ae5-47d0-b5a2-0a21dec0a535"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0.png": {
+      "time": 1737443099431.479,
+      "uuid": "9ead6f6a-d3b8-4690-838b-92d7ddac7b1c"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down1.png": {
+      "time": 1737443099430.3772,
+      "uuid": "62fe6d58-483e-47ba-9b24-cce07fae5923"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down2.png": {
+      "time": 1737443099429.4675,
+      "uuid": "789a2c23-445c-4114-8190-c7353605a782"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down3.png": {
+      "time": 1737443099428.7144,
+      "uuid": "07c89855-0c26-4dd4-8cfd-2424898203b2"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down1.png": {
+      "time": 1737443099426.3699,
+      "uuid": "9712d866-69e0-44bc-818f-90b78ab54c69"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down2.png": {
+      "time": 1737443099425.528,
+      "uuid": "8cd13fb9-d0a0-483f-8719-9d79284e04f7"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1.png": {
+      "time": 1737443099427.0042,
+      "uuid": "653d1913-59fa-42d5-8bad-a9349e3ee00b"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down3.png": {
+      "time": 1737443099424.653,
+      "uuid": "d71d846d-ab0c-4ce8-9265-72c0c2194940"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_down4.png": {
+      "time": 1737443099422.7827,
+      "uuid": "03559661-6c28-48c9-81c4-d324957ef473"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy1_hit.png": {
+      "time": 1737443099419.6157,
+      "uuid": "d4823c2d-28a5-494c-b598-44d23c7099dc"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2.png": {
+      "time": 1737443099417.1658,
+      "uuid": "3829e75a-a4b4-42e5-8781-cb1eecb666e8"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down1.png": {
+      "time": 1737443099414.6946,
+      "uuid": "96b0c926-975f-48ed-8901-c8eadf012dcb"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy0_down4.png": {
+      "time": 1737443099427.837,
+      "uuid": "e1541b6d-684a-442b-b209-1f5505c04ed9"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down2.png": {
+      "time": 1737443099412.9033,
+      "uuid": "27b26ad5-2fa8-49d1-8a90-9811d75c162c"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down3.png": {
+      "time": 1737443099411.72,
+      "uuid": "4a60c831-bf6b-444f-ab2b-3ea8b718cb7d"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down4.png": {
+      "time": 1737443099410.209,
+      "uuid": "ce019d29-3c98-4c21-974b-cf9d48596129"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down5.png": {
+      "time": 1737443099409.337,
+      "uuid": "5edc1beb-8bda-4a99-ad91-afece0243a9d"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_down6.png": {
+      "time": 1737443099406.8938,
+      "uuid": "e2ed4007-3e25-4ae1-aeb7-783188171257"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_hit.png": {
+      "time": 1737443099404.1277,
+      "uuid": "c8ccd983-138e-4616-82d8-af8a1bec4bb0"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/enemy2_n2.png": {
+      "time": 1737443099403.1426,
+      "uuid": "af59b41f-f70a-49d5-ab97-e823596b4926"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading1.png": {
+      "time": 1737443099401.694,
+      "uuid": "d9404e23-4810-4e62-8f2d-69ca7e216299"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading2.png": {
+      "time": 1737443099401.1265,
+      "uuid": "86e71f61-1fd6-4edb-b234-37152a62b458"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading3.png": {
+      "time": 1737443099400.6274,
+      "uuid": "02ad6907-53d0-4a5f-be28-b2952876f22f"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_pause_nor.png": {
+      "time": 1737443099399.2988,
+      "uuid": "2267b3ec-334a-4eab-b46b-9f13e0bbe343"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_loading4.png": {
+      "time": 1737443099400.0503,
+      "uuid": "7067e252-506d-4e52-8aa7-347ebd8a698d"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_pause_pressed.png": {
+      "time": 1737443099398.301,
+      "uuid": "d8ae87b3-fcec-4a24-89ef-6e0a489b60f4"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_resume_nor.png": {
+      "time": 1737443099397.1958,
+      "uuid": "7bd537be-af93-4969-94bc-880d5f2420de"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/game_resume_pressed.png": {
+      "time": 1737443099396.3345,
+      "uuid": "f3ed6250-9de8-4f93-9363-1a2858a542de"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero2.png": {
+      "time": 1737443099392.611,
+      "uuid": "61ebb3e4-5043-4b60-8057-add3b220f5ae"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero1.png": {
+      "time": 1737443099393.5266,
+      "uuid": "c66f32b7-6382-42de-9478-e448bb924adf"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/gameover.png": {
+      "time": 1737443099395.033,
+      "uuid": "696e299d-0a21-458c-97dd-247a48488136"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/loading.png": {
+      "time": 1737443099387.5063,
+      "uuid": "7151cb8d-ea46-4e65-b5ef-5b243c93a35a"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/name.png": {
+      "time": 1737443099385.7952,
+      "uuid": "a78bb91a-918c-4abd-9557-fcd69d309268"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/icon72x72.png": {
+      "time": 1737443099388.0862,
+      "uuid": "5ae29003-46cf-4e1d-bf4a-5c0e0dfdc501"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/progress.png": {
+      "time": 1737443099383.8752,
+      "uuid": "edd7e118-6bf8-4483-9570-518ec2282f97"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/plane.png": {
+      "time": 1737443099384.6895,
+      "uuid": "52f80973-6eaa-45c6-8b6a-03a202ad9566"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/prop_type_0.png": {
+      "time": 1737443099382.9272,
+      "uuid": "d08c0281-44d7-4445-a3e8-2217bf52799e"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/quit_nor.png": {
+      "time": 1737443099381.7393,
+      "uuid": "7547f84b-cd8a-4a11-8b76-0f6773602179"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/prop_type_1.png": {
+      "time": 1737443099382.4116,
+      "uuid": "b5f7ae48-7d1a-49fe-ba4c-50f254386c69"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/quit_sel.png": {
+      "time": 1737443099380.9866,
+      "uuid": "edca9065-7df3-452e-a100-2332b5b876dc"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/restart_nor.png": {
+      "time": 1737443099380.0493,
+      "uuid": "d2870784-627f-47fe-98e5-8d065f3347d7"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/restart_sel.png": {
+      "time": 1737443099379.4602,
+      "uuid": "4ad4a732-c863-4a5d-8b2b-c65d05972ec8"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/resume_nor.png": {
+      "time": 1737443099378.8855,
+      "uuid": "54821153-5e37-4c37-b6d5-a36ebcaaab71"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/resume_sel.png": {
+      "time": 1737443099378.0354,
+      "uuid": "4e9761b0-383b-4a4d-8643-490e1d82dedd"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio.meta": {
+      "time": 1737443099393.9075
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio": {
+      "time": 1737443099392.4185,
+      "uuid": "336cf44d-1c98-4160-ab19-4a3b680d3a66"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/button.mp3.meta": {
+      "time": 1737443099401.233
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/button.mp3": {
+      "time": 1737443099385.712,
+      "uuid": "bc1a9ff5-cb9a-4042-8f13-9530adde9d09"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/bullet.mp3.meta": {
+      "time": 1737443099401.593
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/bullet.mp3": {
+      "time": 1737443099386.2734,
+      "uuid": "125eb53d-1b91-4d42-bfaa-ff3103f222a5"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/big_spaceship_flying.mp3.meta": {
+      "time": 1737443099403.0332
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/big_spaceship_flying.mp3": {
+      "time": 1737443099387.1096,
+      "uuid": "729ccbde-c5e1-4600-b547-638e4fab6aca"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/achievement.mp3.meta": {
+      "time": 1737443099403.3335
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/achievement.mp3": {
+      "time": 1737443099387.6929,
+      "uuid": "980d7567-1039-4948-b850-295cbe396fbe"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/enemy0_down.mp3.meta": {
+      "time": 1737443099402.7036
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/enemy0_down.mp3": {
+      "time": 1737443099385.1384,
+      "uuid": "436fe340-91bc-4e5f-b0af-3e4dc60afb75"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/enemy1_down.mp3.meta": {
+      "time": 1737443099412.2378
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/enemy1_down.mp3": {
+      "time": 1737443099384.1338,
+      "uuid": "d7ad8f62-4b40-4530-958d-b2210c3376b2"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/game_music.mp3.meta": {
+      "time": 1737443099413.4827
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/game_music.mp3": {
+      "time": 1737443099382.7754,
+      "uuid": "6c15a416-562e-460a-8b6a-c7d52e58a386"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/enemy2_down.mp3.meta": {
+      "time": 1737443099410.1016
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/enemy2_down.mp3": {
+      "time": 1737443099383.4792,
+      "uuid": "bf7311fc-a2af-4fd3-9e2f-1220053d457b"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/game_over.mp3.meta": {
+      "time": 1737443099413.17
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/game_over.mp3": {
+      "time": 1737443099381.3167,
+      "uuid": "a6e1db68-9fc2-4664-9455-29780068128e"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/get_bomb.mp3.meta": {
+      "time": 1737443099411.096
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/get_bomb.mp3": {
+      "time": 1737443099380.2869,
+      "uuid": "e10c3a78-d5cf-4150-b9c7-fdd69c59feb6"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/out_porp.mp3.meta": {
+      "time": 1737443099418.7947
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/out_porp.mp3": {
+      "time": 1737443099378.6921,
+      "uuid": "e653f52d-2576-4a84-8c8a-389ede558072"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/get_double_laser.mp3.meta": {
+      "time": 1737443099418.2454
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/get_double_laser.mp3": {
+      "time": 1737443099379.5818,
+      "uuid": "322c71c5-3dee-4c23-99a1-26f816c6123d"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/use_bomb.mp3.meta": {
+      "time": 1737443099419.2488
+    },
+    "/Users/lipeiling/PlaneFight/assets/Audio/use_bomb.mp3": {
+      "time": 1737443099377.8486,
+      "uuid": "8143f830-233b-4a56-846a-62cf5749c6d3"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations.meta": {
+      "time": 1737446103024.8857
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations": {
+      "time": 1738659671752.3987,
+      "uuid": "5ed71aed-3ef1-4611-bc3e-74d88db91453"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Loading.anim.meta": {
+      "time": 1737446118687.5935
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Loading.anim": {
+      "time": 1737446773615.5435,
+      "uuid": "edbab161-93ea-45a0-96d8-40904446fbe4"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scenes/01-Start.scene.meta": {
+      "time": 1737446699702.8142
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scenes/01-Start.scene": {
+      "time": 1738908633149.5684,
+      "uuid": "34ba9cc6-d71f-45ed-ba3a-77a36c92c571"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps.meta": {
+      "time": 1737538047027.2236
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps": {
+      "time": 1738830462718.1265,
+      "uuid": "4ba41e49-fe2c-4083-a1e6-6c3ac783e2bd"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/StartUI.ts.meta": {
+      "time": 1737538099656.025
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/StartUI.ts": {
+      "time": 1737538691884.0242,
+      "uuid": "56c7e622-9580-4b36-be7c-4e41b7dde612"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scenes/02-GameScene.scene.meta": {
+      "time": 1737538612701.7493
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scenes/02-GameScene.scene": {
+      "time": 1739182099933.1433,
+      "uuid": "4ded0126-a83f-41d6-850b-821aeec8c1dd"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Bg.ts.meta": {
+      "time": 1737599048633.1501
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Bg.ts": {
+      "time": 1737603138845.1213,
+      "uuid": "facfd327-90d5-4159-8661-081e6ca511f4"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Player_Idle.anim.meta": {
+      "time": 1737616125756.1858
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Player_Idle.anim": {
+      "time": 1737616406398.6301,
+      "uuid": "2381db5f-ac06-446c-8471-105a7b50a689"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Player.ts.meta": {
+      "time": 1737616575843.6816
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Player.ts": {
+      "time": 1739173320774.2632,
+      "uuid": "0fbc6aa4-c300-4e55-84fc-353255641b16"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Bullet.ts.meta": {
+      "time": 1737620041102.9336
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Bullet.ts": {
+      "time": 1737686014402.6335,
+      "uuid": "3f86f7fe-9880-4ef0-8f03-7a4fcf297a6a"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs.meta": {
+      "time": 1737620344905.8835
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs": {
+      "time": 1738825265691.6138,
+      "uuid": "177e5914-d4e7-4d19-aed3-43afa5307bf0"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Bullet1.prefab.meta": {
+      "time": 1737620365811.5442
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Bullet1.prefab": {
+      "time": 1738829220825.5022,
+      "uuid": "597c9523-4953-4161-85f4-270f56102245"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Bullet2.prefab.meta": {
+      "time": 1737620636385.6663
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Bullet2.prefab": {
+      "time": 1738829237235.211,
+      "uuid": "c0f2f6f2-be60-42b5-a23b-2a735b0bc89e"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Enemy.ts.meta": {
+      "time": 1737686703193.9993
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Enemy.ts": {
+      "time": 1739008142303.5813,
+      "uuid": "f625f48b-e701-4d1d-91b5-cbb8be594ca7"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Enemy0.prefab.meta": {
+      "time": 1737688648539.6833
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Enemy0.prefab": {
+      "time": 1738829250181.4146,
+      "uuid": "24bd11b6-7c6b-4c9e-8d3b-220997614e5a"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy0_Down.anim.meta": {
+      "time": 1737698235297.8555
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy0_Down.anim": {
+      "time": 1737700236934.0352,
+      "uuid": "fee6af2f-649f-419a-8ddf-8934faa9e346"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy1_Down.anim.meta": {
+      "time": 1737700268215.0244
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy1_Down.anim": {
+      "time": 1737700884962.7002,
+      "uuid": "1f62f704-02e2-47c5-9d50-928d2fbddc03"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy1_Hit.anim.meta": {
+      "time": 1737700950135.6914
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy1_Hit.anim": {
+      "time": 1737704609348.093,
+      "uuid": "66d7add6-a9cd-4426-8efd-b5567a6b19e9"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Enemy1.prefab.meta": {
+      "time": 1737701255267.9482
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Enemy1.prefab": {
+      "time": 1738829277093.6562,
+      "uuid": "dcade8e6-681b-4c32-a449-6f9d95f8fd47"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy2_Down.anim.meta": {
+      "time": 1737703877929.0784
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy2_Down.anim": {
+      "time": 1737704670896.2644,
+      "uuid": "8a9b3c2b-2e9e-4fec-8964-a89adecc0de8"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy2_Hit.anim.meta": {
+      "time": 1737704421251.546
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Enemy2_Hit.anim": {
+      "time": 1737704519270.7385,
+      "uuid": "5123e2a1-1458-48c3-aabd-c24120ef29eb"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Enemy2.prefab.meta": {
+      "time": 1737704710089.6353
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Enemy2.prefab": {
+      "time": 1738829285555.9512,
+      "uuid": "d9042baa-0789-4a58-84e0-cb9684f78621"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/EnemyManager.ts.meta": {
+      "time": 1737704942543.807
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/EnemyManager.ts": {
+      "time": 1738723540747.7249,
+      "uuid": "bbffa6a8-7c96-4bcf-8908-2bf7d296631e"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down1.png.meta": {
+      "time": 1738638967692.7434
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down1.png": {
+      "time": 1737443099391.6978,
+      "uuid": "36856dfd-8866-432b-af2b-1580200edb5a"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down2.png.meta": {
+      "time": 1738638972439.5103
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down2.png": {
+      "time": 1737443099390.9998,
+      "uuid": "2d4f2d8f-00d2-49f8-88d0-c301133aa4b1"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down3.png.meta": {
+      "time": 1738638982377.6018
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down3.png": {
+      "time": 1737443099389.6338,
+      "uuid": "2a162016-30ee-482c-bcdc-7d182e1e9f78"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down4.png.meta": {
+      "time": 1738638987353.383
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/hero_down4.png": {
+      "time": 1737443099388.9873,
+      "uuid": "d3b10c75-981c-44c2-96d7-8f4b7de0eac9"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Player_Down.anim.meta": {
+      "time": 1738639131495.4836
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Player_Down.anim": {
+      "time": 1738639219090.5615,
+      "uuid": "fbddeda8-07c7-4faf-8d48-53149c42c27d"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Player_Hit.anim.meta": {
+      "time": 1738648152679.0679
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Player_Hit.anim": {
+      "time": 1738649416511.347,
+      "uuid": "fa5b6a14-1a20-41f4-93c2-50b972c506ea"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Reward.ts.meta": {
+      "time": 1738659300608.0725
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/Reward.ts": {
+      "time": 1738826296256.14,
+      "uuid": "dd9942c4-0064-485a-ab93-2cadb8a6c396"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Reward_Idle.anim.meta": {
+      "time": 1738659671756.9646
+    },
+    "/Users/lipeiling/PlaneFight/assets/Animations/Reward_Idle.anim": {
+      "time": 1738659976071.0977,
+      "uuid": "cddaa07a-da11-4ac3-8603-afbcc60c53cf"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Reward1_TwoShoot.prefab.meta": {
+      "time": 1738662149709.3298
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Reward1_TwoShoot.prefab": {
+      "time": 1738829293485.4832,
+      "uuid": "a14d5837-665d-4439-b20a-1acf11441de0"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/GameManager.ts.meta": {
+      "time": 1738745043913.4976
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/GameManager.ts": {
+      "time": 1739182093349.2756,
+      "uuid": "7156ebc6-cbd9-472b-8693-cc7f5503a9af"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Reward2_Bomb.prefab.meta": {
+      "time": 1738825265693.936
+    },
+    "/Users/lipeiling/PlaneFight/assets/Prefabs/Reward2_Bomb.prefab": {
+      "time": 1738829299374.8408,
+      "uuid": "ef55a648-80b6-4bed-8ade-d303e649c4b3"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI.meta": {
+      "time": 1738830462719.8452
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI": {
+      "time": 1739172692656.5676,
+      "uuid": "7bb6d1bd-b20b-497b-bc13-b8b5bb0d6a95"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/BombUI.ts.meta": {
+      "time": 1738830492034.4204
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/BombUI.ts": {
+      "time": 1738832146082.6602,
+      "uuid": "0f2b16c7-83aa-4072-a80f-7beac1d4b2eb"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/logo.png.meta": {
+      "time": 1738908267134.9321
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/logo.png": {
+      "time": 1738908256647.8062,
+      "uuid": "0fcc155e-13a2-4fc4-8717-f5286fe2fbad"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/LifeCountUI.ts.meta": {
+      "time": 1738909304449.7131
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/LifeCountUI.ts": {
+      "time": 1739009047249.0186,
+      "uuid": "6fcc79b2-10b9-4cb3-94fe-73f2ee9bdfb2"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/logo2.png.meta": {
+      "time": 1738994919432.7747
+    },
+    "/Users/lipeiling/PlaneFight/assets/Image/logo2.png": {
+      "time": 1738913335238.8806,
+      "uuid": "e318f3bf-133a-49c1-a7d4-4821f4815f14"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/ScoreUI.ts.meta": {
+      "time": 1739008989081.198
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/ScoreUI.ts": {
+      "time": 1739009053177.702,
+      "uuid": "576bc16e-9121-4267-96ab-a47d07730f91"
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/GameOverUI.ts.meta": {
+      "time": 1739172692657.3982
+    },
+    "/Users/lipeiling/PlaneFight/assets/Scritps/UI/GameOverUI.ts": {
+      "time": 1739173010861.2092,
+      "uuid": "26dd7673-5e34-4d2f-bbd1-deacf5b0ada4"
+    }
+  },
+  "missing": {
+    "34fe8c12-d33b-4a60-96ce-6ed2abd42f0e": {
+      "path": "/Users/lipeiling/PlaneFight/assets/S",
+      "time": 1737443011395.4045,
+      "removeTime": 1737443023039
+    },
+    "a4443600-dfb6-45b7-b98e-fa60dd702c41": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Scenes/folder",
+      "time": 1737443054668.213,
+      "removeTime": 1737443059480
+    },
+    "d0fa0299-caae-4b60-812f-9d3f83e30db1": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image",
+      "time": 1737443099458.3179,
+      "removeTime": 1737443126515
+    },
+    "c766dedb-0bc3-496b-8503-39f872c37927": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/New Atlas.png",
+      "time": 1737443099443.7925,
+      "removeTime": 1737443126516
+    },
+    "8ae7ddf2-ff94-437f-9227-89d665c192d5": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/background.png",
+      "time": 1737443099442.9202,
+      "removeTime": 1737443126516
+    },
+    "7a92f644-3eae-49d9-ae4c-6f2a1edb5585": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/bg.png",
+      "time": 1737443099442.0354,
+      "removeTime": 1737443126516
+    },
+    "be03a0b5-1ce5-44c6-b0be-9eb7b3e040a0": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/bomb.png",
+      "time": 1737443099438.7715,
+      "removeTime": 1737443126516
+    },
+    "db05ef51-21a6-4b83-baf0-73f2bba3fdf0": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/btn_finish.png",
+      "time": 1737443099437.733,
+      "removeTime": 1737443126516
+    },
+    "98fb0693-f1ae-4924-a362-6b2bddaf2e6e": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/bullet.png",
+      "time": 1737443099436.736,
+      "removeTime": 1737443126516
+    },
+    "be8b8ba6-9e30-41de-818a-6ff1f872391e": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/bullet1.png",
+      "time": 1737443099436.0293,
+      "removeTime": 1737443126516
+    },
+    "ad07ee4d-1207-4b45-b356-3355cb026c44": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/bullet2.png",
+      "time": 1737443099435.3328,
+      "removeTime": 1737443126516
+    },
+    "31193fc4-d859-4a34-a80a-0fc926c5990c": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/button_nor.png",
+      "time": 1737443099434.6396,
+      "removeTime": 1737443126516
+    },
+    "6dd04e0e-6ae5-47d0-b5a2-0a21dec0a535": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/button_p.png",
+      "time": 1737443099433.353,
+      "removeTime": 1737443126516
+    },
+    "9ead6f6a-d3b8-4690-838b-92d7ddac7b1c": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy0.png",
+      "time": 1737443099431.479,
+      "removeTime": 1737443126516
+    },
+    "62fe6d58-483e-47ba-9b24-cce07fae5923": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy0_down1.png",
+      "time": 1737443099430.3772,
+      "removeTime": 1737443126516
+    },
+    "789a2c23-445c-4114-8190-c7353605a782": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy0_down2.png",
+      "time": 1737443099429.4675,
+      "removeTime": 1737443126516
+    },
+    "07c89855-0c26-4dd4-8cfd-2424898203b2": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy0_down3.png",
+      "time": 1737443099428.7144,
+      "removeTime": 1737443126516
+    },
+    "e1541b6d-684a-442b-b209-1f5505c04ed9": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy0_down4.png",
+      "time": 1737443099427.837,
+      "removeTime": 1737443126516
+    },
+    "653d1913-59fa-42d5-8bad-a9349e3ee00b": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy1.png",
+      "time": 1737443099427.0042,
+      "removeTime": 1737443126516
+    },
+    "9712d866-69e0-44bc-818f-90b78ab54c69": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy1_down1.png",
+      "time": 1737443099426.3699,
+      "removeTime": 1737443126516
+    },
+    "8cd13fb9-d0a0-483f-8719-9d79284e04f7": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy1_down2.png",
+      "time": 1737443099425.528,
+      "removeTime": 1737443126516
+    },
+    "d71d846d-ab0c-4ce8-9265-72c0c2194940": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy1_down3.png",
+      "time": 1737443099424.653,
+      "removeTime": 1737443126516
+    },
+    "03559661-6c28-48c9-81c4-d324957ef473": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy1_down4.png",
+      "time": 1737443099422.7827,
+      "removeTime": 1737443126516
+    },
+    "d4823c2d-28a5-494c-b598-44d23c7099dc": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy1_hit.png",
+      "time": 1737443099419.6157,
+      "removeTime": 1737443126516
+    },
+    "3829e75a-a4b4-42e5-8781-cb1eecb666e8": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2.png",
+      "time": 1737443099417.1658,
+      "removeTime": 1737443126516
+    },
+    "96b0c926-975f-48ed-8901-c8eadf012dcb": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_down1.png",
+      "time": 1737443099414.6946,
+      "removeTime": 1737443126516
+    },
+    "27b26ad5-2fa8-49d1-8a90-9811d75c162c": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_down2.png",
+      "time": 1737443099412.9033,
+      "removeTime": 1737443126516
+    },
+    "4a60c831-bf6b-444f-ab2b-3ea8b718cb7d": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_down3.png",
+      "time": 1737443099411.72,
+      "removeTime": 1737443126516
+    },
+    "ce019d29-3c98-4c21-974b-cf9d48596129": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_down4.png",
+      "time": 1737443099410.209,
+      "removeTime": 1737443126517
+    },
+    "5edc1beb-8bda-4a99-ad91-afece0243a9d": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_down5.png",
+      "time": 1737443099409.337,
+      "removeTime": 1737443126517
+    },
+    "e2ed4007-3e25-4ae1-aeb7-783188171257": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_down6.png",
+      "time": 1737443099406.8938,
+      "removeTime": 1737443126517
+    },
+    "c8ccd983-138e-4616-82d8-af8a1bec4bb0": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_hit.png",
+      "time": 1737443099404.1277,
+      "removeTime": 1737443126517
+    },
+    "af59b41f-f70a-49d5-ab97-e823596b4926": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/enemy2_n2.png",
+      "time": 1737443099403.1426,
+      "removeTime": 1737443126517
+    },
+    "d9404e23-4810-4e62-8f2d-69ca7e216299": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_loading1.png",
+      "time": 1737443099401.694,
+      "removeTime": 1737443126517
+    },
+    "86e71f61-1fd6-4edb-b234-37152a62b458": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_loading2.png",
+      "time": 1737443099401.1265,
+      "removeTime": 1737443126517
+    },
+    "02ad6907-53d0-4a5f-be28-b2952876f22f": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_loading3.png",
+      "time": 1737443099400.6274,
+      "removeTime": 1737443126517
+    },
+    "7067e252-506d-4e52-8aa7-347ebd8a698d": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_loading4.png",
+      "time": 1737443099400.0503,
+      "removeTime": 1737443126517
+    },
+    "2267b3ec-334a-4eab-b46b-9f13e0bbe343": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_pause_nor.png",
+      "time": 1737443099399.2988,
+      "removeTime": 1737443126517
+    },
+    "d8ae87b3-fcec-4a24-89ef-6e0a489b60f4": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_pause_pressed.png",
+      "time": 1737443099398.301,
+      "removeTime": 1737443126517
+    },
+    "7bd537be-af93-4969-94bc-880d5f2420de": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_resume_nor.png",
+      "time": 1737443099397.1958,
+      "removeTime": 1737443126517
+    },
+    "f3ed6250-9de8-4f93-9363-1a2858a542de": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/game_resume_pressed.png",
+      "time": 1737443099396.3345,
+      "removeTime": 1737443126517
+    },
+    "696e299d-0a21-458c-97dd-247a48488136": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/gameover.png",
+      "time": 1737443099395.033,
+      "removeTime": 1737443126517
+    },
+    "c66f32b7-6382-42de-9478-e448bb924adf": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/hero1.png",
+      "time": 1737443099393.5266,
+      "removeTime": 1737443126517
+    },
+    "61ebb3e4-5043-4b60-8057-add3b220f5ae": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/hero2.png",
+      "time": 1737443099392.611,
+      "removeTime": 1737443126517
+    },
+    "36856dfd-8866-432b-af2b-1580200edb5a": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Image/hero_down_1.png",
+      "time": 1737443099391.6978,
+      "removeTime": 1738638967686
+    },
+    "2d4f2d8f-00d2-49f8-88d0-c301133aa4b1": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Image/hero_down_n2.png",
+      "time": 1737443099390.9998,
+      "removeTime": 1738638972432
+    },
+    "2a162016-30ee-482c-bcdc-7d182e1e9f78": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Image/hero_down_n3.png",
+      "time": 1737443099389.6338,
+      "removeTime": 1738638982371
+    },
+    "d3b10c75-981c-44c2-96d7-8f4b7de0eac9": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Image/hero_down_n4.png",
+      "time": 1737443099388.9873,
+      "removeTime": 1738638987347
+    },
+    "5ae29003-46cf-4e1d-bf4a-5c0e0dfdc501": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/icon72x72.png",
+      "time": 1737443099388.0862,
+      "removeTime": 1737443126517
+    },
+    "7151cb8d-ea46-4e65-b5ef-5b243c93a35a": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/loading.png",
+      "time": 1737443099387.5063,
+      "removeTime": 1737443126517
+    },
+    "a78bb91a-918c-4abd-9557-fcd69d309268": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/name.png",
+      "time": 1737443099385.7952,
+      "removeTime": 1737443126517
+    },
+    "52f80973-6eaa-45c6-8b6a-03a202ad9566": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/plane.png",
+      "time": 1737443099384.6895,
+      "removeTime": 1737443126517
+    },
+    "edd7e118-6bf8-4483-9570-518ec2282f97": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/progress.png",
+      "time": 1737443099383.8752,
+      "removeTime": 1737443126517
+    },
+    "d08c0281-44d7-4445-a3e8-2217bf52799e": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/prop_type_0.png",
+      "time": 1737443099382.9272,
+      "removeTime": 1737443126517
+    },
+    "b5f7ae48-7d1a-49fe-ba4c-50f254386c69": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/prop_type_1.png",
+      "time": 1737443099382.4116,
+      "removeTime": 1737443126517
+    },
+    "7547f84b-cd8a-4a11-8b76-0f6773602179": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/quit_nor.png",
+      "time": 1737443099381.7393,
+      "removeTime": 1737443126517
+    },
+    "edca9065-7df3-452e-a100-2332b5b876dc": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/quit_sel.png",
+      "time": 1737443099380.9866,
+      "removeTime": 1737443126517
+    },
+    "d2870784-627f-47fe-98e5-8d065f3347d7": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/restart_nor.png",
+      "time": 1737443099380.0493,
+      "removeTime": 1737443126517
+    },
+    "4ad4a732-c863-4a5d-8b2b-c65d05972ec8": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/restart_sel.png",
+      "time": 1737443099379.4602,
+      "removeTime": 1737443126518
+    },
+    "54821153-5e37-4c37-b6d5-a36ebcaaab71": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/resume_nor.png",
+      "time": 1737443099378.8855,
+      "removeTime": 1737443126518
+    },
+    "4e9761b0-383b-4a4d-8643-490e1d82dedd": {
+      "path": "/Users/lipeiling/PlaneFight/assets/image/resume_sel.png",
+      "time": 1737443099378.0354,
+      "removeTime": 1737443126518
+    },
+    "336cf44d-1c98-4160-ab19-4a3b680d3a66": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound",
+      "time": 1737443099392.4185,
+      "removeTime": 1737443138615
+    },
+    "980d7567-1039-4948-b850-295cbe396fbe": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/achievement.mp3",
+      "time": 1737443099387.6929,
+      "removeTime": 1737443138616
+    },
+    "729ccbde-c5e1-4600-b547-638e4fab6aca": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/big_spaceship_flying.mp3",
+      "time": 1737443099387.1096,
+      "removeTime": 1737443138616
+    },
+    "125eb53d-1b91-4d42-bfaa-ff3103f222a5": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/bullet.mp3",
+      "time": 1737443099386.2734,
+      "removeTime": 1737443138617
+    },
+    "bc1a9ff5-cb9a-4042-8f13-9530adde9d09": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/button.mp3",
+      "time": 1737443099385.712,
+      "removeTime": 1737443138617
+    },
+    "436fe340-91bc-4e5f-b0af-3e4dc60afb75": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/enemy0_down.mp3",
+      "time": 1737443099385.1384,
+      "removeTime": 1737443138617
+    },
+    "d7ad8f62-4b40-4530-958d-b2210c3376b2": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/enemy1_down.mp3",
+      "time": 1737443099384.1338,
+      "removeTime": 1737443138617
+    },
+    "bf7311fc-a2af-4fd3-9e2f-1220053d457b": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/enemy2_down.mp3",
+      "time": 1737443099383.4792,
+      "removeTime": 1737443138618
+    },
+    "6c15a416-562e-460a-8b6a-c7d52e58a386": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/game_music.mp3",
+      "time": 1737443099382.7754,
+      "removeTime": 1737443138618
+    },
+    "a6e1db68-9fc2-4664-9455-29780068128e": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/game_over.mp3",
+      "time": 1737443099381.3167,
+      "removeTime": 1737443138618
+    },
+    "e10c3a78-d5cf-4150-b9c7-fdd69c59feb6": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/get_bomb.mp3",
+      "time": 1737443099380.2869,
+      "removeTime": 1737443138618
+    },
+    "322c71c5-3dee-4c23-99a1-26f816c6123d": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/get_double_laser.mp3",
+      "time": 1737443099379.5818,
+      "removeTime": 1737443138618
+    },
+    "e653f52d-2576-4a84-8c8a-389ede558072": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/out_porp.mp3",
+      "time": 1737443099378.6921,
+      "removeTime": 1737443138619
+    },
+    "8143f830-233b-4a56-846a-62cf5749c6d3": {
+      "path": "/Users/lipeiling/PlaneFight/assets/sound/use_bomb.mp3",
+      "time": 1737443099377.8486,
+      "removeTime": 1737443138619
+    },
+    "34ba9cc6-d71f-45ed-ba3a-77a36c92c571": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Scenes/scene.scene",
+      "time": 1737447149507.0344,
+      "removeTime": 1737447198685
+    },
+    "de78bf2b-1e8d-45ce-89b8-209174ed3042": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Scenes/01-Start.scene",
+      "time": 1737443072280.476,
+      "removeTime": 1737447189724
+    },
+    "fbddeda8-07c7-4faf-8d48-53149c42c27d": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Player_Down.anim",
+      "time": 1738639219090.5615,
+      "removeTime": 1738649248125
+    },
+    "fa5b6a14-1a20-41f4-93c2-50b972c506ea": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Player_Hit.anim",
+      "time": 1738648362424.0051,
+      "removeTime": 1738649248127
+    },
+    "a14d5837-665d-4439-b20a-1acf11441de0": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Prefabs/Reward1.prefab",
+      "time": 1738662125792.241,
+      "removeTime": 1738662149707
+    },
+    "a34ca34d-9b82-470a-a8a8-1c92bd369902": {
+      "path": "/Users/lipeiling/PlaneFight/assets/Prefabs/Reward2_Bomb.prefab",
+      "time": 1738662135917.3079,
+      "removeTime": 1738825212908
+    }
+  }
+}
